@@ -1,0 +1,15 @@
+clsSIS_Basico = 54, 127, 509, 672, CZ
+clsSIS_FG = 0, 0, 0, 0, C
+clsSIS_LV = 54, 127, 509, 672, CZ
+clsSIS_TV = 0, 0, 0, 0, C
+clsSIS_BD = 0, 0, 0, 0, C
+clsSIS_Geral = 54, 127, 509, 672, C
+clsSIS_DataHora = 54, 127, 509, 672, CZ
+clsSIS_Valor = 0, 0, 0, 0, C
+clsSIS_CNPJCPF = 0, 0, 0, 0, C
+mdlSIS_Basico = 54, 127, 509, 672, CZ
+clsSIS_GravaLog = 0, 0, 0, 0, C
+clsSIS_MDB = 0, 0, 0, 0, C
+clsSIS_Word = 0, 0, 0, 0, C
+clsSIS_Excel = 0, 0, 0, 0, C
+clsSIS_DocClasse = 0, 0, 0, 0, C

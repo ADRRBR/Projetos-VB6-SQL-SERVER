@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Licencas.vbp
+Project=ADRRBR_SIS_Basico\ADRRBR_SIS_Basico.vbp
+Project=ADRRBR_SIS_Conexao\ADRRBR_SIS_Conexao.vbp
